@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Nordic-Giant Project",
+    "description": "I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image": "./profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "(+1) 123-456-7890",
+    "github": "https://github.com/ozakione/",
+    "project": "https://github.com/ozakione/",
+    "address": {
+      "street": "Your Street",
+      "city": "Your City",
+      "state": "Your State",
+      "zip": "Your Zip"
+    },
+    "website": "https://www.example.com",
+    "resumedownload": "https://example.com/cv.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/",
+        "className": "faFacebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "faTwitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "faLinkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "faInstagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/",
+        "className": "faGithub"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "School #1 Maybe College?",
+        "degree": "What did you study 101",
+        "graduated": "March 2003",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "color": "bg-yellow-200",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "color": "bg-green-600",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "color": "bg-blue-400",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "color": "bg-blue-700",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "color": "bg-indigo-300",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "color": "bg-yellow-500",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "color": "bg-yellow-300",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "/images/canadian-wanderlust.jpg",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "/images/fury-fighting-gear.jpg",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "/images/original-thai-food.jpg",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "/images/resume-website.jpg",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "/images/smirkspace.jpg",
+        "url": "https://example.com"
+      }
+    ]
+  }
+}
